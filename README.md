@@ -1,5 +1,5 @@
 # web-scrapping-practice
-
+![](https://github.com/yfirdaws/web-scrapping/blob/main/DATA%20COLLECTION.png)
 
 # Web scrapping folder
 
