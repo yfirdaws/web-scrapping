@@ -14,10 +14,8 @@ Data was scraped from  both dynamic and static websites. These data were scrappe
 ### Projects done soo far
 * scrapping info for microphones on aliexpress
 * Using PRAW to get data from the funny subreddit
-* scrapping info  Nollywood movies from wikipedia and amazon
-* scrapping name,price and corresponding images of groceries from ecommerce websites for a market research 
-* 
-* Webdriver
+* scrapping info  Nollywood movies from wikipedia and amazon and net naija
+* scrapping name,price and corresponding images of groceries from ecommerce websites for a market research
 
 
 ### Technologies
